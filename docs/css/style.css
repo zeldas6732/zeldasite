@@ -1,0 +1,28 @@
+html{
+background-image: url("img/burger.webp");
+}
+#body-title{
+    background-image: url("img/back.jpg");
+}
+@font-face {
+    font-family: 'MyCustomFont'; /* Название шрифта */
+    src: url('font.ttf') format('truetype'); /* Путь к файлу шрифта */
+    font-weight: normal;
+    font-style: normal;
+}
+#style {
+    font-family: 'MyCustomFont', sans-serif;
+    color: green;
+}
+#stylef {
+    font-family: 'MyCustomFont', sans-serif;
+    background-color: white;
+}
+#stylee {
+    font-family: 'MyCustomFont', sans-serif;
+    background-color: white;
+    color: green;
+}
+#one {
+    color: green;
+}
